@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#aigbemanuel@gmail.com
-
 
 gcloud compute networks delete default
 
